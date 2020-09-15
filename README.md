@@ -12,6 +12,7 @@
 ##### GNN:
 
 1. [GNNExplainer](/NeurlPS2019/GNNExplainer_200719.md)
+2. [GIN](/ICLR2019/GIN_200914.md)
 
 ##### GNN & Few-shot:
 
